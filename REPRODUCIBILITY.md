@@ -26,10 +26,10 @@ All 9 upstream data repositories are publicly accessible. No special credentials
 
 ## Validation
 
-The SHARE score's predictive validity has been tested on the Zenodo 2016 cohort (n=48,771):
+The SHARE score's predictive validity has been validated on two Zenodo cohorts:
 
-- Citation prediction OR: 3.0x per 10-point increase (95% CI: 2.87-3.18)
-- Derivative prediction OR: 5.73x (95% CI: 4.97-6.61)
+- Citation prediction OR: 3.0x per 10-point increase (95% CI: 2.87-3.18; Zenodo 2016 cohort, n=48,771)
+- Derivative prediction OR: 5.73x per 10-point increase (95% CI: 4.97-6.61; Zenodo 2017-2022 cohort, n=183,872)
 - Known-groups validity confirmed across 9 repositories
 
 Validation scripts and pre-computed results: [share-implementation/validation/](https://github.com/ConductScience-Foundation/share-implementation/tree/main/validation)
