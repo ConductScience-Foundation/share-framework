@@ -130,16 +130,21 @@ Where `reuse_count` combines citations, downloads, and derived works.
 
 ## Validated Repositories
 
-The SHARE Framework has been applied to **115M+ datasets** across:
+The SHARE Framework has been applied to **76.4M+ datasets** across 9 repositories:
 
 | Repository | Records | Avg SHARE | Domain |
 |------------|---------|-----------|--------|
 | OpenAIRE | 73.4M | 53.8 | Multi-disciplinary |
-| SRA | 40.5M | 98.0 | Genomics |
-| Zenodo | 1.3M | ~55 | General-purpose |
-| Dryad | 68K | ~50 | Biology |
-| GEO | 579 | 73.4 | Gene expression |
-| OpenNeuro | 375 | 56.3 | Neuroimaging |
+| Zenodo | 1.3M | 44.1 | General-purpose |
+| SRA | 644K | 84.7 | Genomics |
+| ClinicalTrials.gov | 571K | 50.3 | Clinical trials |
+| GEO | 274K | 73.5 | Gene expression |
+| Dryad | 109K | 45.2 | Biology |
+| EDI | 47K | 56.2 | Environmental science |
+| NASA | 27K | 28.6 | Earth science |
+| OpenNeuro | 1,873 | 49.5 | Neuroimaging |
+
+See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for how to reproduce these results.
 
 ## Contributing
 
